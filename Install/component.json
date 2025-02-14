@@ -19,7 +19,14 @@
 		"components" : [],
 		"packages" : [],
 		"middlewares" : [],
-		"views" : [],
+		"views" : 
+		[
+			{
+				"name" : "SystemUsersProfile",
+				"version" : "0.0.0",
+				"repo" : "https://github.com/sp-fintech/fintech-views-tools-default-systemusersprofile"
+			}
+		],
 		"external" : [],
 		"apptype" : 
 		{
